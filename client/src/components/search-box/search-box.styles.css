@@ -1,0 +1,51 @@
+.search {
+  -webkit-appearance: none;
+  border: none;
+  outline: none;
+  padding: 10px;
+  width: 275px;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+
+.filter {
+  -webkit-appearance: none;
+  border: none;
+  outline: none;
+  padding: 10px;
+  width: 275px;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+
+.label {
+  color: white;
+}
+
+.filter-row {
+  margin-bottom: 60px;
+}
+
+.filter-column {
+  display: inline-block;
+  width: 50%;
+}
+
+/* mobile */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .filter-column {
+    width: 100%;
+  }
+}
+
+/* tablets */
+@media only screen and (min-device-width: 481px) and (max-device-width: 768px) {
+}
+
+/* small screens and laptops */
+@media only screen and (min-device-width: 769px) and (max-device-width: 1024px) {
+}
+
+/* desktop and large screens */
+@media only screen and (min-device-width: 1025px) and (max-device-width: 1200px) {
+}

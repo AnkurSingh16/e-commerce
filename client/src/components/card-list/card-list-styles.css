@@ -1,0 +1,32 @@
+.card-list {
+  width: 85vw;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
+
+/* mobile */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .card-list {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* tablets */
+@media only screen and (min-device-width: 481px) and (max-device-width: 768px) {
+  .card-list {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* small screens and laptops */
+@media only screen and (min-device-width: 769px) and (max-device-width: 1024px) {
+  .card-list {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+/* desktop and large screens */
+@media only screen and (min-device-width: 1025px) and (max-device-width: 1200px) {
+}

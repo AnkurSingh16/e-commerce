@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ankur_singh/e-commerce/static/css/main.815f7ab2.chunk.css",
+    "main.js": "/ankur_singh/e-commerce/static/js/main.e7b4b897.chunk.js",
+    "main.js.map": "/ankur_singh/e-commerce/static/js/main.e7b4b897.chunk.js.map",
+    "runtime~main.js": "/ankur_singh/e-commerce/static/js/runtime~main.37d3de54.js",
+    "runtime~main.js.map": "/ankur_singh/e-commerce/static/js/runtime~main.37d3de54.js.map",
+    "static/js/2.6297479c.chunk.js": "/ankur_singh/e-commerce/static/js/2.6297479c.chunk.js",
+    "static/js/2.6297479c.chunk.js.map": "/ankur_singh/e-commerce/static/js/2.6297479c.chunk.js.map",
+    "index.html": "/ankur_singh/e-commerce/index.html",
+    "precache-manifest.27c99e302330556c541d372e8235e643.js": "/ankur_singh/e-commerce/precache-manifest.27c99e302330556c541d372e8235e643.js",
+    "service-worker.js": "/ankur_singh/e-commerce/service-worker.js",
+    "static/css/main.815f7ab2.chunk.css.map": "/ankur_singh/e-commerce/static/css/main.815f7ab2.chunk.css.map"
+  }
+}
